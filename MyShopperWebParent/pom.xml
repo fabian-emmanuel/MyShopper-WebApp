@@ -8,19 +8,21 @@
         <version>2.5.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.codewithfibbee</groupId>
     <artifactId>MyShopperWebParent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MyShopperWebParent</name>
-
     <packaging>pom</packaging>
+    <name>MyShopperWebParent</name>
     <description>MyShopper Spring MVC Parent Project</description>
+
     <properties>
         <java.version>16</java.version>
     </properties>
 
     <modules>
         <module>MyShopperBackend</module>
+
     </modules>
     <dependencies>
         <dependency>

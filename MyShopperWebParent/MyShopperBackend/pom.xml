@@ -6,8 +6,8 @@
         <groupId>com.codewithfibbee</groupId>
         <artifactId>MyShopperWebParent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <artifactId>MyShopperBackend</artifactId>
     <name>MyShopperBackend</name>
     <description>MyShopper Admin Spring MVC Project</description>
