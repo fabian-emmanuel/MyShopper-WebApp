@@ -22,6 +22,7 @@
 
     <modules>
         <module>MyShopperBackend</module>
+        <module>MyShopperFrontend</module>
 
     </modules>
     <dependencies>
